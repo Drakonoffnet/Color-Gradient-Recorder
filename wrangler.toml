@@ -1,0 +1,9 @@
+name = "color-gradient-recorder"
+compatibility_date = "2023-10-30"
+main = "src/index.tsx"
+
+[site]
+bucket = "./build"
+
+[build]
+command = "npm run build"
